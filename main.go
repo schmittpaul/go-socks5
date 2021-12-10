@@ -1,6 +1,8 @@
 package main
 
-import "github.com/schmittpaul/socks5"
+import (
+	"github.com/schmittpaul/socks5"
+)
 
 func main() {
 
